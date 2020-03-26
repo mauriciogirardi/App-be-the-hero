@@ -1,0 +1,38 @@
+.logon-container {
+  width: 100%;
+  max-width: 1120px;
+  height: 100vh;
+  margin: 0 auto;
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  animation: animate2 0.4s;
+}
+
+.logon-container section.form {
+  width: 100%;
+  max-width: 350px;
+ 
+}
+
+.logon-container section.form form {
+  margin-top: 100px;
+}
+
+.logon-container section.form form h1 {
+  font-size: 30px;
+  margin-bottom: 32px;
+}
+
+@keyframes animate2 {
+  0% {  
+    opacity: 0.3;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+
