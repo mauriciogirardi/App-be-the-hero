@@ -1,9 +1,8 @@
-![logo da ls Reefer](https://github.com/mauriciogirardi/App-be-the-hero/blob/master/frontend/src/assets/logo.svg)
+<h1 align='center'>
+  <img src='https://github.com/mauriciogirardi/App-be-the-hero/blob/master/frontend/src/assets/logo.svg'/>
+   <br> :page_with_curl: Semana OmniStack<br/>
+</h1>
 
-<br/>
-<br/>
-
-# :page_with_curl: Semana OmniStack
 <br/>
 
 > Esta aplicação <strong>Be The Hero</strong> vai conectar pessoas que tenham vontade de ajudar e muitas vezes,
